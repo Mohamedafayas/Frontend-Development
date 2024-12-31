@@ -1,0 +1,81 @@
+.klRahul-top-container{
+    background-color: #fb4e71;
+    padding:10px;
+}
+
+.KlRahul-top-section-heading{
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 200;
+    padding:5px;
+}
+
+.KlRahul-top-section-paragraph{
+    color: #ffffff;
+    font-family:"Roboto";
+    font-size: 18px;
+    padding: 5px;
+}
+
+.KlRahul-top-section-image{
+    height:200px;
+    weight:180px;
+}
+
+.bottom-section-bg-container{
+    background-color: #e6f6ff;
+}
+
+.bottom-section-iplrecords{
+    color:#323f4b;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding:10px;
+}
+
+.bottom-section-image2{
+    margin-left:10px;
+}
+
+.bottom2-card-container{
+    background-color: #ffffff;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.bottom2-heading{
+    padding:5px;
+}
+
+.bottom2-paragraph{
+    color: #323f4b;
+    padding: 5px;
+}
+
+.bottom-section-videos{
+    padding:10px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.bottom3-Klrahul-images{
+    border-radius: 10px;
+    width:20vw;
+}
+
+.margin{
+    margin: 10px;
+}
+
+.bottom3-img-description{
+    color: #323f4b;
+    padding: 10px;
+}
+
+.button{
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    border-radius:10px;
+}

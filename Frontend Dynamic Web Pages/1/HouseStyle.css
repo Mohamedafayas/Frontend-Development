@@ -1,0 +1,44 @@
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    height:100vh;
+    background-size: cover;
+}
+
+.card-container{
+    background-color: #000000e6;
+    border-radius: 20px;
+    margin:28px;
+}
+
+.card-container-heading{
+    color:#ffffff;
+    font-size:65px;
+    font-family: Bree serif;
+    padding: 20px;
+}
+
+.card-container-paragraph{
+    color: #ffffff;
+    font-size:50px;
+    font-family: Roboto;
+    padding-left: 28px;
+}
+
+.price{
+    color: #ffffff;
+    font-size: 50px;
+    font-family: Roboto;
+    padding:28px;
+}
+
+.button{
+    font-size:25px;
+    font-family:"Times New Roman";
+    margin:12px;
+    margin-bottom: 200px;
+    text-align:center;
+    border-radius: 8px;
+    background-color: #ffffff;
+    width: 35%;
+    padding:12px;
+}

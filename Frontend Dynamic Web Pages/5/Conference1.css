@@ -1,0 +1,42 @@
+.heading{
+    font-family:"Roboto";
+    font-weight: 600;
+    text-align: center;
+    margin: 10px;
+    color: #183b56;
+}
+
+.paragraph{
+    font-size: 18px;
+    text-align: center;
+    color: #5a7184;
+    margin:10px;
+}
+
+.button{
+    color: #ffffff;
+    text-align: center;
+    margin:10px;
+}
+
+.margin{
+    margin: 15px;
+}
+
+.Conference-heading{
+    color:#183b56;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.Conference-paragraph{
+    color: #5a7184;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+
+.back{
+    color: #ffffff;
+    text-align: center;
+    border: none;
+}

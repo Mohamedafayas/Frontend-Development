@@ -1,0 +1,22 @@
+.image{
+    height:50vh;
+}
+
+.heading{
+    font-family: "Roboto";
+    font-weight: bolder;
+    margin:10px;
+}
+
+.list{
+    font-size:30px;
+    margin-left:30px;
+    list-style-type:circle;
+}
+
+.button{
+    color:#ffffff;
+    border-radius: 15px;
+    border-color:none;
+    width:150px;
+}
