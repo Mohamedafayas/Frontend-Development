@@ -1,4 +1,4 @@
-# Frontend-Development
+# Frontend-Designing
 **Web Development Projects**  
 
 These projects showcase a collection of static and dynamic web pages designed and developed with creativity and innovation. Utilizing HTML, Bootstrap, and CSS, the projects emphasize user-friendly interfaces and visually appealing designs. Each web page is a unique representation of the user's ideas and imagination, demonstrating their ability to translate concepts into functional and aesthetic web solutions.  
